@@ -1,0 +1,5 @@
+git init 
+git touch file_name
+git status
+git add . 'stage area'
+git commit   'save to local'
