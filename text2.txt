@@ -16,5 +16,11 @@ git branch to chek existing branches
 git checkout to switch to new branch
 git pull --rebase origin master 
 git push origin master 
+
+git branch -d new branch to delete new branch
+git merge new branch 
+
+
 git branch -d new branch
 in github compare and pull ... accept and confirm
+
