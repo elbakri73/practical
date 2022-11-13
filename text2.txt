@@ -17,4 +17,5 @@ git checkout to switch to new branch
 git pull --rebase origin master 
 git push origin master 
 git branch -d new branch to delete new branch
+git merge new branch 
 
