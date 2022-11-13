@@ -14,3 +14,5 @@ git branch
 git branch new branch (to create a new branch)
 git branch to chek existing branches
 git checkout to switch to new branch
+git pull --rebase origin master 
+git push origin master 
