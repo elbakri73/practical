@@ -1,2 +1,5 @@
 workflow instructions
-git init
+git initgit st
+git add (move file to the stage area)
+git commit (save file to local repo)
+git branch new branch (creating a new branch)
